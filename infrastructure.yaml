@@ -7,7 +7,7 @@ Resources:
     Properties:
       BucketName: tarekbucket-test-1000
       VersioningConfiguration:
-        Status: Enabled
+        Status: Suspended
 
 
   BucketPolicy:
